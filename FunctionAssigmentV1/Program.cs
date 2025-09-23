@@ -55,7 +55,7 @@
         /// Checks to see if the input age is over 18
         /// </summary>
         /// <param name="age"></param>
-        /// <returns></returns>
+        /// <returns>Returns boolean for if the age was over or equal to 18</returns>
         static bool TarkistaTäysIkäinen(int age)
         {
             // Check if the user is an adult
