@@ -83,9 +83,6 @@
         }
         static void Main(string[] args)
         {
-            // Everything is intentionally inside Main before refactoring to functions
-            //Your job is to refactor this code to use functions for better readability and reusability.
-            //Check learn on how to do this
             string name = KysyNimi();
             int age = KysyIkä();
 
